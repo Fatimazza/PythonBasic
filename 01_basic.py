@@ -9,6 +9,10 @@ addition = 2+2 # assignment with expression
 result = addition - 1
 print(result)
 
+# input/output
+name = input('Input your name: ')
+print(name)
+
 # comments
 # sample of inline comment
 '''

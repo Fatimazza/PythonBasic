@@ -8,3 +8,14 @@ print(greeting)
 addition = 2+2 # assignment with expression
 result = addition - 1
 print(result)
+
+# comments
+# sample of inline comment
+'''
+    sample of block comments 
+    using single quote
+'''
+"""
+    sample of block comments 
+    using double quote
+"""

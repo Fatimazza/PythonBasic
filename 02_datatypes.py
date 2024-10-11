@@ -42,3 +42,9 @@ x = [1, 'Dicoding', True, 1.0]
 print(x)
 print(type(x))
 
+# tuple
+print("\nCollection: Tuple")
+x = (1, "Dicoding", 1+3j)
+print(x)
+print(type(x))
+

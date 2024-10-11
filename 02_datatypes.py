@@ -19,6 +19,13 @@ print(x, " ", type(x))
 x = 1+2j
 print(x, " ", type(x))
 
+# boolean
+print("\nPrimitive: Boolean")
+x = True
+print(x, " ", type(x))
+x = False
+print(x, " ", type(x))
+
 """
 collection data types
 consist of: list, tuple, set, dictionary

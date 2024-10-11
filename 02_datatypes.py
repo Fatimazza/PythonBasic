@@ -10,6 +10,15 @@ print(id(x), " ", type(x))
 x = "oke"
 print(id(x), " ", type(x))
 
+# numbers
+print("\nPrimitive: Numbers")
+x = 6
+print(x, " ", type(x))
+x = 6.0
+print(x, " ", type(x))
+x = 1+2j
+print(x, " ", type(x))
+
 """
 collection data types
 consist of: list, tuple, set, dictionary

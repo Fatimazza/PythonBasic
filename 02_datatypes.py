@@ -48,3 +48,9 @@ x = (1, "Dicoding", 1+3j)
 print(x)
 print(type(x))
 
+# set
+print("\nCollection: Set")
+x = {1, 2, 7, 2, 3, 13, 3}
+print(x)
+print(type(x))
+

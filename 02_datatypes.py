@@ -35,3 +35,10 @@ print(x, " ", type(x))
 collection data types
 consist of: list, tuple, set, dictionary
 """
+
+# list
+print("\nCollection: List")
+x = [1, 'Dicoding', True, 1.0]
+print(x)
+print(type(x))
+

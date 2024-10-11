@@ -54,3 +54,8 @@ x = {1, 2, 7, 2, 3, 13, 3}
 print(x)
 print(type(x))
 
+# dictionary
+print("\nCollection: Dictionary")
+x = { 'name': 'Fatima Zza', 'age': 17, 'isMarried': False }
+print(x)
+print(type(x))

@@ -26,6 +26,11 @@ print(x, " ", type(x))
 x = False
 print(x, " ", type(x))
 
+# string
+print("\nPrimitive: String")
+x = 'Dicoding'
+print(x, " ", type(x))
+
 """
 collection data types
 consist of: list, tuple, set, dictionary
